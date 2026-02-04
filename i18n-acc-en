@@ -1,0 +1,366 @@
+{
+  "auth": {
+    "back_home": "Back to Home",
+    "welcome_title": "Welcome back",
+    "welcome_subtitle": "Sign in to your RoYoLands Account",
+    "login_label": "Email",
+    "password_label": "Password",
+    "forgot_password": "Forgot password?",
+    "two_factor_title": "Security Code",
+    "two_factor_desc": "Enter 2FA code from authenticator",
+    "sign_in_btn": "Sign In",
+    "verify_btn": "Verify & Sign In",
+    "or_divider": "Or",
+    "no_account": "Don't have an account?",
+    "create_one": "Create one",
+    "error_verification": "Verification failed",
+    "error_captcha": "Captcha error. Please try again.",
+    "error_login": "Login failed",
+    "create_account": "Create Account",
+    "step_email": "Enter your email to start",
+    "step_code": "We sent a code to your email",
+    "step_details": "Finish setting up your profile",
+    "send_code": "Send Verification Code",
+    "email_exists": "Email already registered",
+    "send_failed": "Failed to send email",
+    "enter_code": "Verification Code",
+    "didnt_receive": "Didn't receive code?",
+    "resend": "Resend",
+    "invalid_code": "Invalid or expired code",
+    "agree_prefix": "I agree to the",
+    "have_account": "Already have an account?",
+    "terms_required": "You must agree to the Terms",
+    "reg_failed": "Registration failed",
+    "invalid_email": "Invalid email address",
+    "back_to_login": "Back to Login",
+    "forgot_password_title": "Forgot Password?",
+    "forgot_password_subtitle": "Enter your email to receive a reset code.",
+    "send_code_btn": "Send Code",
+    "verify_code_title": "Check your Inbox",
+    "verify_code_subtitle": "We sent a 6-digit code to your email",
+    "code_label": "Verification Code",
+    "wrong_email": "Wrong email? Go back",
+    "reset_password_title": "Set New Password",
+    "reset_password_subtitle": "Create a strong password for your account.",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "reset_password_btn": "Reset Password",
+    "password_short": "Password too short (min 6 chars)",
+    "passwords_mismatch": "Passwords do not match",
+    "password_reset_success": "Password successfully reset!",
+    "social_account_error": "This account uses social login. Please sign in via provider.",
+    "code_sent": "Verification code sent",
+    "sign_out": "Sign Out"
+  },
+  "common": {
+    "back": "Back",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "reset": "Reset",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "verify": "Verify",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "or": "Or",
+    "unknown": "Unknown",
+    "never": "Never",
+    "not_set": "Not Set",
+    "network_error": "Network Error",
+    "unknown_error": "Unknown error"
+  },
+  "settings": {
+    "titles": {
+      "profile": "Profile Settings",
+      "security": "Security Settings",
+      "notifications": "Notifications",
+      "privacy": "Privacy Settings",
+      "linked": "Linked Accounts"
+    },
+    "subtitles": {
+      "profile": "Manage your public profile and contacts",
+      "security": "Protect your account with 2FA and strong passwords",
+      "notifications": "Manage your preferences",
+      "privacy": "Manage your preferences",
+      "linked": "Manage third-party login methods"
+    },
+    "nav": {
+      "profile": "Profile",
+      "security": "Security",
+      "notifications": "Notifications",
+      "privacy": "Privacy",
+      "linked": "Linked Accounts"
+    },
+    "profile": {
+      "username": "Username",
+      "email": "Email Address",
+      "country": "Country",
+      "country_desc": "We associate your RoYoLands Account with a region so that we can better provide our services to you",
+      "phone": "Phone Number",
+      "language": "Language",
+      "mc_nickname": "Minecraft Nickname",
+      "mc_tooltip_p1": "This nickname is synced with your Minecraft account.",
+      "mc_tooltip_premium": "Premium:",
+      "mc_tooltip_premium_desc": "Updates automatically on login.",
+      "mc_tooltip_non_premium": "Non-premium:",
+      "mc_tooltip_non_premium_desc": "Contact support to change.",
+      "wait_days": "Wait {{days}} days to change"
+    },
+    "security": {
+      "tfa_title": "Two-Factor Authentication",
+      "tfa_desc": "Secure your account with an authenticator app.",
+      "btn_enable": "Enable Authentication",
+      "btn_disable": "Disable Authentication",
+      "pwd_title": "Change Password",
+      "pwd_current": "Current Password",
+      "pwd_new": "New Password",
+      "pwd_confirm": "Confirm Password",
+      "btn_update_pwd": "Update Password"
+    },
+    "notifications": {
+      "via_email": "Receive notifications via Email",
+      "via_push": "Receive notifications via Push",
+      "via_sms": "Receive notifications via SMS",
+      "label_email": "Email Notifications",
+      "label_push": "Push Notifications",
+      "label_sms": "SMS Notifications"
+    },
+    "privacy": {
+      "profileVisible": "Profile Visibility",
+      "profileVisible_desc": "Visible to other players",
+      "activityStatus": "Activity Status",
+      "activityStatus_desc": "Show online status",
+      "dataCollection": "Data Collection",
+      "dataCollection_desc": "Allow data collection"
+    },
+    "linked": {
+      "not_connected": "Not connected",
+      "unlink": "Unlink",
+      "connect": "Connect",
+      "confirm_unlink": "Unlink"
+    },
+    "messages": {
+      "saving": "Saving...",
+      "saved": "Settings saved successfully",
+      "error_save": "Error saving changes",
+      "pwd_mismatch": "Passwords do not match",
+      "pwd_updated": "Password updated",
+      "setup_failed": "Failed to setup 2FA",
+      "verify_failed": "Verification failed",
+      "invalid_code": "Invalid code",
+      "tfa_disabled": "2FA Disabled",
+      "disable_failed": "Failed to disable 2FA",
+      "link_failed": "Failed to link",
+      "unlink_success": "Unlinked successfully",
+      "unlink_failed": "Failed to unlink",
+      "check_status": "Checking status...",
+      "load_settings": "Loading settings...",
+      "enter_code_disable": "Enter 2FA code to disable:"
+    },
+    "modals": {
+      "scan_qr": "Scan QR Code",
+      "scan_desc": "Use Google Authenticator or similar app",
+      "auth_enabled": "Authentication Enabled",
+      "auth_enabled_desc": "Your account is now more secure.",
+      "change_email_title": "Change Email Address",
+      "email_step1_desc": "We sent a verification code to your current email. Enter it below and provide your new email address.",
+      "code_old_label": "Verification Code (Old Email)",
+      "new_email_label": "New Email Address",
+      "next_step_btn": "Next Step",
+      "email_step2_desc": "Almost done! We sent a code to your NEW email address.",
+      "code_new_label": "Verification Code (New Email)",
+      "confirm_change_btn": "Confirm Change"
+    }
+  },
+  "consent": {
+    "title": "Authorization Request",
+    "wants_access": "{{client}} wants to access your account",
+    "logged_in_as": "Logged in as",
+    "switch_account": "Switch account",
+    "permissions_title": "This application will be able to:",
+    "perm_profile": "Read your basic profile information",
+    "perm_email": "Read your email address",
+    "approve_btn": "Authorize",
+    "deny_btn": "Cancel",
+    "disclaimer": "You can revoke this access at any time in your account settings."
+  },
+  "mc": {
+    "title": "Minecraft Login",
+    "subtitle": "Confirm login request",
+    "privacy_disclaimer": "Basic information about your profile will be transferred to the server",
+    "logged_in_as": "Logged in as",
+    "code_label": "Device Code",
+    "confirm_btn": "Confirm Access",
+    "processing": "Verifying...",
+    "success_title": "Successfully Linked!",
+    "success_desc": "You can now return to the game.",
+    "error_generic": "Connection failed",
+    "error_code_missing": "Code is missing"
+  },
+  "home": {
+    "badge": "Unified ID System",
+    "hero_title_1": "One account.",
+    "hero_title_2": "Infinite possibilities.",
+    "hero_desc": "Centralized access management for all RoYoLands services. Security, simplicity, and instant synchronization.",
+    "cta_login": "Log in",
+    "cta_dashboard": "Dashboard",
+    "cta_start": "Get Started",
+    "cta_profile": "Go to Profile",
+    "features": {
+      "access_title": "Unified Access",
+      "access_desc": "Authorization across all games and services.",
+      "security_title": "Security",
+      "security_desc": "Full control over data and protection.",
+      "ecosystem_title": "Ecosystem",
+      "ecosystem_desc": "Synchronization with third-party apps."
+    },
+    "footer": "© 2022 - 2025 RoYoLands Inc. All rights reserved.",
+    "mojang": "RoYoLands is not affiliated with Mojang AB, the project's commercial activities comply with Mojang AB's policies"
+  },
+  "meta": {
+    "lang_name": "English"
+  },
+  "region": {
+    "title": "Update your region",
+    "subtitle": "Your account is associated with a specific country to comply with local laws and provide relevant services.",
+    "warning": "Changing your region may affect your access to certain products, pricing, and available content. This process requires moderator approval.",
+    "country_label": "New Country / Region",
+    "select_country": "Select a country",
+    "country_hint": "Select the country you have permanently moved to.",
+    "reason_label": "Reason for change",
+    "reason_placeholder": "I moved to a new location because...",
+    "submit": "Submit Request",
+    "disclaimer": "By submitting this request, you confirm that the information provided is accurate. Providing false information may result in account restrictions.",
+    "pending_title": "Request Pending",
+    "pending_desc": "You already have an active request to change your region. Our moderators are reviewing it. Please wait for a decision via email.",
+    "success_title": "Request Submitted",
+    "success_desc": "We have received your request to change your region to",
+    "done": "Done"
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "users": "Users",
+      "requests": "Region Requests",
+      "logs": "Audit Logs",
+      "exit": "Exit"
+    },
+    "dashboard": {
+      "title": "Overview",
+      "subtitle": "System metrics and analytics.",
+      "total_users": "Total Users",
+      "new_today": "New Today",
+      "pending_req": "Pending Requests",
+      "banned": "Banned Accounts",
+      "hidden_title": "Analytics Hidden",
+      "hidden_desc": "Press button to reveal sensitive data.",
+      "btn_reveal": "Reveal Analytics",
+      "btn_hide": "Hide Analytics",
+      "charts": {
+        "growth": "User Registrations (7 Days)",
+        "actions": "Admin Actions",
+        "suspicious": "Suspicious Admin Activity",
+        "security": "Security Overview"
+      },
+      "security_stats": {
+        "spying": "Admin Snooping",
+        "region": "Region Changes",
+        "force_pass": "Force Passwords",
+        "bans": "Active Bans"
+      }
+    },
+    "users": {
+      "title": "User Management",
+      "subtitle": "View and manage all registered accounts.",
+      "search_placeholder": "Search by email, username, ID...",
+      "table": {
+        "user": "User",
+        "role": "Role",
+        "status": "Status",
+        "country": "Country",
+        "actions": "Actions"
+      },
+      "actions": {
+        "manage": "Manage",
+        "back": "Back to Users"
+      },
+      "detail": {
+        "info_title": "Account Information",
+        "email": "Email",
+        "region": "Region",
+        "lang": "Language",
+        "birth": "Birth Date",
+        "security": "Security",
+        "last_login": "Last Login",
+        "last_login_ip": "Last Login IP",
+        "audit_title": "Audit Trail",
+        "actions_title": "Admin Actions",
+        "btn_reset_link": "Send Reset Link",
+        "btn_force_password": "Force Change Password",
+        "btn_disable_2fa": "Disable 2FA",
+        "btn_ban": "Ban User",
+        "btn_unban": "Unban User",
+        "btn_change_email": "Change Email",
+        "btn_change_region": "Change Region",
+        "modal": {
+          "title": "Security Verification",
+          "action": "Action",
+          "new_password": "New Password for User",
+          "new_email": "New Email Address",
+          "new_region": "New Country Code (2 letters)",
+          "reason": "Reason (Mandatory)",
+          "your_password": "Your Admin Password",
+          "totp_code": "2FA Code",
+          "cancel": "Cancel",
+          "confirm": "Confirm Action"
+        },
+        "status": {
+          "banned": "BANNED",
+          "active": "ACTIVE"
+        },
+        "security_status": {
+          "twofa_enabled": "2FA Enabled",
+          "twofa_disabled": "2FA Disabled"
+        },
+        "empty_logs": "No audit logs found for this user."
+      }
+    },
+    "requests": {
+      "title": "Region Requests",
+      "subtitle": "Review user applications.",
+      "pending_badge": "Pending: {{count}}",
+      "empty_title": "All caught up!",
+      "empty_desc": "No pending requests.",
+      "card": {
+        "wants_move": "wants to move",
+        "current": "Current",
+        "requested": "Requested",
+        "reason": "User Reason",
+        "security_check": "Security Check",
+        "recent_logins": "Recent Logins",
+        "match": "IP Matches Request",
+        "mismatch": "IP Mismatch (Suspicious)",
+        "no_data": "No Login Data",
+        "btn_approve": "Approve",
+        "btn_reject": "Reject"
+      }
+    },
+    "logs": {
+      "title": "Audit Logs",
+      "subtitle": "Immutably recorded actions.",
+      "search_placeholder": "Search logs...",
+      "export": "Export CSV",
+      "table": {
+        "time": "Time",
+        "actor": "Actor",
+        "action": "Action",
+        "target": "Target",
+        "reason": "Reason",
+        "ip": "IP Address"
+      },
+      "badges": {
+        "illegal": "ILLEGAL VIEW"
+      }
+    }
+  }
+}
