@@ -50,7 +50,8 @@
     "password_reset_success": "Password successfully reset!",
     "social_account_error": "This account uses social login. Please sign in via provider.",
     "code_sent": "Verification code sent",
-    "sign_out": "Sign Out"
+    "sign_out": "Sign Out",
+    "next_btn": "Далее"
   },
   "common": {
     "back": "Back",
