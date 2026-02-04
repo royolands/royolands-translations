@@ -1,7 +1,7 @@
 {
   "auth": {
-    "back_home": "На главную",
-    "welcome_title": "С возвращением",
+    "back_home": "家",
+    "welcome_title": "",
     "welcome_subtitle": "Войдите в свой RoYoLands аккаунт",
     "login_label": "Email",
     "password_label": "Пароль",
